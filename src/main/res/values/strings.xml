@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Space adventure</string>
+    <string name="start">Начать</string>
+    <string name="shop">Магазин</string>
+    <string name="settings">Настройки</string>
+    <string name="back">Назад</string>
+    <string name="level">Уровень:</string>
+    <string name="left">Влево</string>
+    <string name="right">Вправо</string>
+    <string name="textcontinue">Продолжить</string>
+    <string name="level1welcome">Добро пожаловать на уровень 1!</string>
+    <string name="level2welcome">Добро пожаловать на уровень 2!</string>
+    <string name="level3welcome">Добро пожаловать на уровень 3!</string>
+    <string name="level4welcome">Добро пожаловать на уровень 4!</string>
+    <string name="level5welcome">Добро пожаловать на уровень 5!</string>
+    <string name="level6welcome">Добро пожаловать на уровень 6!</string>
+    <string name="level7welcome">Добро пожаловать на уровень 7!</string>
+    <string name="level8welcome">Добро пожаловать на уровень 8!</string>
+    <string name="level9welcome">Добро пожаловать на уровень 9!</string>
+    <string name="level10welcome">Добро пожаловать на уровень 10!</string>
+    <string name="level1description">Управляя ракетой, вам предстоит увернуться от 20 астероидов</string>
+    <string name="level2description">Управляя ракетой, вам предстоит увернуться от 40 астероидов</string>
+    <string name="level3description">Управляя ракетой, вам предстоит увернуться от 60 астероидов</string>
+    <string name="level4description">Управляя ракетой, вам предстоит увернуться от 80 астероидов</string>
+    <string name="level5description">Управляя ракетой, вам предстоит увернуться от 100 астероидов</string>
+    <string name="level6description">Управляя ракетой, вам предстоит увернуться от 120 астероидов</string>
+    <string name="level7description">Управляя ракетой, вам предстоит увернуться от 140 астероидов</string>
+    <string name="level8description">Управляя ракетой, вам предстоит увернуться от 160 астероидов</string>
+    <string name="level9description">Управляя ракетой, вам предстоит увернуться от 180 астероидов</string>
+    <string name="level10description">Управляя ракетой, вам предстоит уворачиваться от астероидов максимально долго как вы сможете. Этот уровень бесконечен!</string>
+    <string name="level1">Уровень 1</string>
+    <string name="level2">Уровень 2</string>
+    <string name="level3">Уровень 3</string>
+    <string name="level4">Уровень 4</string>
+    <string name="level5">Уровень 5</string>
+    <string name="level6">Уровень 6</string>
+    <string name="level7">Уровень 7</string>
+    <string name="level8">Уровень 8</string>
+    <string name="level9">Уровень 9</string>
+</resources>
+
